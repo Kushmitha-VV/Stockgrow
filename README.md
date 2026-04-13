@@ -11,7 +11,11 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
 </p>
 
----
+<p align="center">
+  <a href="https://stockgrow-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+  </a>
+</p>
 
 ## 🌟 About the Project
 
